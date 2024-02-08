@@ -1,6 +1,6 @@
 "use client"
 
-import React, {use, useState} from "react"
+import React, {use, useEffect, useState} from "react"
 import Link from "next/link"
 import Image from "next/image"
 import {IPostMin} from "lib/cms-content/getPostListing"

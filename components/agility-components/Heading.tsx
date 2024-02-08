@@ -1,4 +1,4 @@
-import React from "react";
+import React from "react"
 
 import {Module} from "@agility/nextjs"
 
@@ -17,4 +17,4 @@ const Heading: Module<IHeading> = ({module}) => {
 	)
 }
 
-export default Heading;
+export default Heading
